@@ -82,7 +82,7 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 owner = setting.owner
 gamewaktu = setting.gamewaktu
 petik = '```'
-fake = 'CREATOR BOT\©KurrXd'//GANTI NAMA KAMU BEP
+fake = 'CREATOR BOT\©SkyclopsZ'//GANTI NAMA KAMU BEP
 ban =[]
 
 // Database
@@ -407,7 +407,7 @@ module.exports = dha = async (dha, mek) => {
           let authorname = dha.contacts[from] != undefined ? dha.contacts[from].vname || dha.contacts[from].notify : undefined	
           if (authorname != undefined) { } else { authorname = groupName }	
           function addMetadata(packname, author) {	
-          if (!packname) packname = 'WABot'; if (!author) author = 'Bot';author = author.replace(/[^a-zA-Z0-9]/g, '');	
+          if (!packname) packname = 'SKYBOTZ'; if (!author) author = 'Bot';author = author.replace(/[^a-zA-Z0-9]/g, '');	
           let name = `${author}_${packname}`
           if (fs.existsSync(`./sticker/${name}.exif`)) return `./sticker/${name}.exif`
           const json = {	
