@@ -25,7 +25,7 @@ const starts = async (dha = new WAConnection()) => {
 	}), 'cyan'))
 	console.log(color('[SOURCE CODE INI DIJAGA DAN DI LINDUNGI OLEH KURRXD\n\n', 'orange'), color('\n======TERIMKASIH BANYAK KEPADA======\n•MHANKBARBAR\n•NINO\n•IKYADS\n•KurrXd\n•DAFFA PATNER SAYA\n•COPAS TEAM\n•PENYEDIA APIKEY\n•SELURUH CREATOR BOT\n•SELURUH SUBSCRIBERKU\n•SELURUH BUYER SCRIP INI', 'yellow'))
 	console.log(color('\n\nJANGAN DI JUAL ULANG BRO😑\nKALAU ADA YG MINTA SURUH CHAT ©KurrXd😅\nWA YUDHA 6281220670449😗', 'pink'))
-	kurr.browserDescription = ["SHERLYNN BOTZ", "Chrome", "3.0.0"];
+	kurr.browserDescription = ["SKY BOTZ", "Chrome", "3.0.0"];
 
 	// Menunggu QR
 	kurr.on('qr', () => {
@@ -42,8 +42,8 @@ const spinner = {
   "frames": [
     "K",
     "Ku",
-    "Kur",
     "Kurr",
+    "KurrX",
     "KurrXd",
     "KurrXd G",
     "KurrXd GA",
